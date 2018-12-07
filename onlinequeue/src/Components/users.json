@@ -1,0 +1,14 @@
+[
+  {
+    username: "sean",
+    password: "$2a$10$7qZH4alyKy0nuvYq/cGlO.M/1eHE1cE2KOeiyhMsR/n7V4eRMEOA6"
+  },
+  {
+    username: "steven",
+    password: "$2a$10$HmPrcWF27cia0009evg9K.2RZj8CF5K2asdhvb3Sa/Hf/sn.iYOR2"
+  },
+  {
+    username: "marie",
+    password: "$2a$10$vV3.pSih8MjIcmmo6bvwR.Y3iJxCQlyT.oin0PAXGRo2xeWoNEjAW"
+  }
+]
